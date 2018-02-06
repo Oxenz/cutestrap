@@ -99,18 +99,39 @@ Styleguide 4.1
   font-size: $font-size--large;
 }
 
-.fw-light{
-  font-weight: 300;
+.fw-1, .fw-thin {
+ font-weight: 100;
 }
 
-.fw-normal{
-  font-weight: 400;
+.fw-2, .fw-elight {
+ font-weight: 200;
 }
 
-.fw-semibold{
-  font-weight: 600;
+.fw-3, .fw-light {
+ font-weight: 300;
 }
 
-.fw-bold{
-  font-weight: 700;
+.fw-4, .fw-normal {
+ font-weight: 400;
 }
+
+.fw-5, .fw-medium {
+ font-weight: 500;
+}
+
+.fw-6, .fw-semibold {
+ font-weight: 600;
+}
+
+.fw-7, .fw-bold {
+ font-weight: 700;
+}
+
+.fw-8, .fw-ebold {
+ font-weight: 800;
+}
+
+.fw-9, .fw-black {
+ font-weight: 900;
+}
+
